@@ -1,0 +1,13 @@
+name: NPS_tool
+title: NPS_tool
+username:
+account: chrishenri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 575217
+bundleId: 3139517
+url: https://chrishenri.shinyapps.io/NPS_tool/
+when: 1589324121.62331
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: background_doc.docx|background_doc.Rmd
